@@ -9,6 +9,9 @@ Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
 Option Compare Database
 Option Explicit
+'-----------------------
+' auth : t.ichi
+'-----------------------
 
 Private mFullname As String
 Private mBaseDir As String
